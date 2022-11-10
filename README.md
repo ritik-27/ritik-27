@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ritikjain666@gmail.com**
 
-- ⚡ Fun fact **Chai tastes way better than Coffee | Change my mind!**
+- ⚡ Fun fact :- **Chai tastes way better than Coffee | Change my mind!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
