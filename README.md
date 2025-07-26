@@ -19,7 +19,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/ritik27" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritik27" height="30" width="40" /></a>
 <a href="https://instagram.com/ritik._.27" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritik._.27" height="30" width="40" /></a>
-<a href="https://twitter.com/ritik__27" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/934px-Twitter-logo.svg" alt="ritik__27" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
