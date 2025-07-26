@@ -5,11 +5,11 @@
 
 #### Welcome to my GitHub profile
 
-- 👩‍💻 I’m Ritik Jain, a student, Coder, Developer.
+- 👩‍💻 I’m Ritik Jain, Coder, Developer.
 
 - ✨ I’m a Self-learner, coding enthusiastic, passionate to learn new things
 
-- 💬 Ask me about **Reactjs**
+- 💬 Ask me about **Reactjs / TypeScript / Python**
 
 - 📫 How to reach me **ritikjain666@gmail.com**
 
